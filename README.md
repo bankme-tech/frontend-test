@@ -20,7 +20,7 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
  - Para a interação do formulário utilize preferencialmente Angular ou React;
 
 ### Você pode:
- - Utilizar framworks css como Tailwind, Bootstrap ou outras;
+ - Utilizar frameworks css como Tailwind, Bootstrap ou outros;
  - Utilizar componentes do Angular Material;
  
 ### O que esperamos:
